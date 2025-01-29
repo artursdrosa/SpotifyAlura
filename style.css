@@ -25,7 +25,7 @@ body {
 }
 
 .sidebar_navigation .logo img {
-    width: 80px;
+    width: 100px;
 }
 
 .sidebar nav ul {
@@ -43,4 +43,48 @@ body {
     font-weight: 600;
     font-size: 14px;
     font-family: "DM Sans", sans-serif;
+}
+
+
+.library {
+    background-color: #121212;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 4px 8px;
+    color: #b3b3b3;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.library_content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.library .library_content button {
+    display: flex;
+    margin-right: 10px;
+    background-color: transparent;
+    color: #b3b3b3;
+    border: 0px;
+    text-decoration: none;
+    text-transform: none;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: "DM Sans", sans-serif;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.library .library_button .fa{
+    font-size: 20px;
+    margin-right: 10px;
+    padding-right: 8px;
+}
+
+.library .library_content .fa-plus {
+    margin: 24px;
 }
