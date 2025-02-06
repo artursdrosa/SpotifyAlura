@@ -41,6 +41,12 @@
         "name": "Caetano Veloso",
         "genre": "MPB",
         "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+      },
+      {
+        "id": 8,
+        "name": "Figueirense Futebol Clube",
+        "genre": "Futebol",
+        "urlImg": "https://cebolabrindes.com.br/pub/media/catalog/product/cache/c70ae39189325524823e3a7bddbfebee/2/2/22037_2__1.jpg"
       }
     ]
   }
